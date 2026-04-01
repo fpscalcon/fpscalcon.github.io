@@ -9,6 +9,9 @@ During my postdoctoral fellowship at the McMaster Automotive Resource Centre (MA
 on three industry-sponsored projects in close collaboration with engineers from Enedym and 
 Cubic Transportation Systems, working in multidisciplinary teams of up to 15 people.
 
+![AI-Edge Device](/images/portfolio2.png)
+*AI-Edge device project for AI-powered video monitoring*
+
 ## Projects & Contributions
 - Implemented high-performance control techniques for high-speed SRMs, including initial 
 position estimation for sensorless operation and RMS capacitor current reduction strategies
