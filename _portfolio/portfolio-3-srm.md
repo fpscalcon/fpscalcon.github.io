@@ -10,6 +10,9 @@ for electric traction and renewable energy applications. My research has focused
 advanced control strategies to overcome their inherent challenges, including torque ripple, 
 acoustic noise, and the need for precise rotor position information.
 
+![SRM research](/images/portfolio3.png)
+*Super-twisting sliding mode current controller for SRMs*
+
 ## Key Contributions
 - Developed a discrete-time super-twisting sliding mode current controller with fixed switching 
 frequency, published in IEEE Transactions on Power Electronics
