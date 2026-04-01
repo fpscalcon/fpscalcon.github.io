@@ -1,13 +1,16 @@
 ---
 title: "Campus Microgrid Research Laboratory"
 excerpt: "Design, construction and control of a research microgrid at the University of Calgary"
-collection: portfolio
+collection: portfolio <br/><img src='/images/portfolio1.png'>"
 ---
 
 ## Overview
 As part of my postdoctoral research at the University of Calgary, I contributed to the design, 
 construction, and optimization of a campus microgrid research laboratory under the supervision 
 of Prof. Andrew M. Knight.
+
+![Microgrid Laboratory](/images/portfolio1.png)
+*Overview of the campus microgrid setup at the University of Calgary*
 
 ## System Components
 - Solar panels and microinverters for renewable energy generation
