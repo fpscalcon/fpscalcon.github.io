@@ -1,6 +1,6 @@
 ---
 title: "Campus Microgrid Research Laboratory"
-excerpt: "Design, construction and control of a research microgrid at the University of Calgary <br/><img src='/images/portfolio1_small.png'>"
+excerpt: "Design, construction and control of a research microgrid at the University of Calgary"
 collection: portfolio
 ---
 
