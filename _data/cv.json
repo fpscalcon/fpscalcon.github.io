@@ -1,152 +1,271 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Filipe Pinarello Scalcon, Ph.D.",
+    "label": "Research Associate",
+    "email": "filipe.scalcon@ucalgary.ca",
+    "phone": "+1 (416) 662 0192",
+    "website": "https://fpscalcon.github.io/",
+    "summary": "Ph.D. in Electrical Engineering with a focus on control applied to power electronics for applications in industry, electric traction and renewable energy conversion. Over 35 applied research publications, including 9 top-tier IEEE journal papers and 23 IEEE international conference proceedings (h-index 11). Over 10 years of engineering experience spanning industry and academic research at leading programs, with direct involvement in 4 industry-academia projects.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "2500 University Dr NW",
+      "postalCode": "T2N 1N4",
+      "city": "Calgary",
+      "countryCode": "CA",
+      "region": "AB"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.ca/citations?user=6qmVBK4AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8976-2188"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fpscalcon",
+        "url": "https://www.linkedin.com/in/fpscalcon/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "fpscalcon",
+        "url": "https://github.com/fpscalcon"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Research Associate",
+      "company": "Department of Electrical and Software Engineering, University of Calgary",
+      "startDate": "2024-02-01",
+      "endDate": "Present",
+      "summary": "Leading technical direction of the microgrid research project.",
+      "highlights": [
+        "Led technical direction of the microgrid research project, coordinating efforts across electrical and chemical engineering groups",
+        "Assumed full ownership of laboratory operations, including safety protocols, equipment maintenance, and onboarding of new team members",
+        "Supervised 2 PhD and 2 MSc students, providing research guidance and performance oversight",
+        "Collaborated directly with the principal investigator to define strategic priorities and long-term research direction",
+        "Expanded publication output and contributed to grant writing and project reporting"
+      ]
+    },
+    {
+      "position": "Postdoctoral Associate",
+      "company": "Department of Electrical and Software Engineering, University of Calgary",
+      "startDate": "2025-11-01",
+      "endDate": "Present",
+      "summary": "Contributed to the construction and optimization of a campus microgrid facility.",
+      "highlights": [
+        "Contributed to the construction and optimization of a campus microgrid facility, incorporating solar panels, microinverters, a Chroma battery system, a propane generator, and a flow battery",
+        "Assisted in coordinating day-to-day laboratory operations, including safety compliance, personnel training, and system maintenance",
+        "Mentored and collaborated with 2 PhD and 2 MSc students on research related to electric machine control and 3-phase grid-tie systems",
+        "Supported the principal investigator in shaping the research roadmap",
+        "Authored and published research findings in peer-reviewed journals"
+      ]
+    },
+    {
+      "position": "Postdoctoral Fellow",
+      "company": "McMaster Automotive Resource Centre, McMaster University",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Worked on three industry-sponsored projects with Enedym and Cubic Transportation Systems.",
+      "highlights": [
+        "Worked in three industry sponsored projects in teams of upwards of 15 people and in close proximity of the company engineers",
+        "Explored automatic code generation for TI DSPs using Simulink and transferred functionalities from legacy C code, later validated in an experimental setup",
+        "Implemented different high performance control techniques for SRMs, such as an initial position estimation algorithm for sensorless operation, current control strategies for high speed SRMs, and techniques for RMS capacitor current reduction",
+        "Contributed to the development of an IoT edge device for machine vision and image recognition using an NVIDIA Jetson platform",
+        "Elaborated several technical reports, journal and conference papers",
+        "Assisted the ECE department in activities such as participating in the interview of candidates for faculty positions"
+      ]
+    },
+    {
+      "position": "Graduate Research Assistant (Doctorate)",
+      "company": "Federal University of Santa Maria",
+      "startDate": "2019-03-01",
+      "endDate": "2021-09-01",
+      "summary": "Proposed new methods for the advanced control of switched reluctance motors.",
+      "highlights": [
+        "Proposed new methods for the advanced control of switched reluctance motors",
+        "Collaborated with external researchers from McMaster University",
+        "Published 8 high-impact journal papers during a 2.5-year period",
+        "Worked closely with a group of approximately 10 graduate students, acting as a mentor to some of them"
+      ]
+    },
+    {
+      "position": "Graduate Research Assistant (Masters)",
+      "company": "Federal University of Santa Maria",
+      "startDate": "2017-03-01",
+      "endDate": "2019-02-01",
+      "summary": "Initiated the research on switched reluctance and synchronous reluctance motors.",
+      "highlights": [
+        "Initiated the research on switched reluctance and synchronous reluctance motors in the institution",
+        "Quoted, designed and built an experimental setup for synchronous reluctance machines",
+        "Led a project with a budget of approximately 15k USD"
+      ]
+    },
+    {
+      "position": "Research Assistant (Undergraduate)",
+      "company": "Federal University of Santa Maria",
+      "startDate": "2012-03-01",
+      "endDate": "2017-02-01",
+      "summary": "Assisted graduate students with experimental setups and surveyed motor control strategies.",
+      "highlights": [
+        "Assisted graduate students with the assembly of experimental setups",
+        "Surveyed control strategies for induction and permanent magnet synchronous motors",
+        "Researched the control of six-phase BLDC motors"
+      ]
+    },
+    {
+      "position": "Product Verification and Validation (PV&V) Intern",
+      "company": "John Deere, Horizontina, RS, Brazil",
+      "startDate": "2016-08-01",
+      "endDate": "2017-01-01",
+      "summary": "Full-time internship in product verification and validation.",
+      "highlights": [
+        "Carried out the instrumentation of combines and planters using a plethora of sensors",
+        "Performed data acquisition and post processing analysis for engineers",
+        "Implemented a remote position control circuit for a hydraulic pump, allowing safe operation of the equipment during destructive tests",
+        "Tested parts from alternative suppliers seeking cost reduction",
+        "Awarded with continuous improvement goals achievement as a member of the PV&V department"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Federal University of Santa Maria",
+      "area": "Ph.D. in Electrical Engineering",
+      "studyType": "Doctorate",
+      "startDate": "2019-03-01",
+      "endDate": "2021-09-01",
+      "gpa": "3.96/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Santa Maria",
+      "area": "M.S. in Electrical Engineering",
+      "studyType": "Masters",
+      "startDate": "2017-03-01",
+      "endDate": "2019-02-01",
+      "gpa": "3.98/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Santa Maria",
+      "area": "Special Graduation Program for Professor Training for Professional Education",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2017-08-01",
+      "endDate": "2019-01-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Federal University of Santa Maria",
+      "area": "B.S. in Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012-03-01",
+      "endDate": "2017-02-01",
+      "gpa": "8.81/10",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Computer skills",
+      "keywords": ["MATLAB", "Simulink", "PSIM", "PLECS", "RTDS", "RSCAD FX", "C/C++", "Python", "TensorFlow", "Microsoft Office", "CorelDraw", "LaTeX"]
+    },
+    {
+      "name": "Technical expertise",
+      "keywords": ["Control systems", "Power electronics", "Electric machines", "Optimization", "RTDS hardware-in-the-loop systems", "Battery testing hardware", "Experimental hardware design and construction"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
   "interests": [],
-  "references": [],
-  "publications": [
+  "references": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Prof. Andrew M. Knight, Ph.D., PEng, FCAE, IEEE Senior Member",
+      "reference": "Postdoc Supervisor — Department of Electrical and Software Engineering, University of Calgary, 2500 University Dr NW, Calgary, Alberta, Canada T2N 1N4. Email: aknigh@ucalgary.ca"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Prof. Ali Emadi, Ph.D., Fellow IEEE, SAE, and NAI",
+      "reference": "Postdoc Supervisor — Department of Electrical and Computer Engineering, McMaster University. Email: emadi@mcmaster.ca"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Prof. Babak Nahid-Mobarakeh, Ph.D., HDR, Fellow IEEE",
+      "reference": "Postdoc Supervisor — Department of Electrical and Computer Engineering, McMaster University. Email: nahidmb@mcmaster.ca"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Prof. Ignacio Galiano Zurbriggen, Ph.D., IEEE Member",
+      "reference": "Postdoc Co-Supervisor — School of Sustainable Energy Engineering, Simon Fraser University. Email: igaliano@sfu.ca"
+    },
+    {
+      "name": "Prof. Rodrigo Padilha Vieira, Dr. Eng., IEEE Senior Member",
+      "reference": "Ph.D. Co-Supervisor — Electromechanical and Power Systems Department, Federal University of Santa Maria. Email: rodrigo.vieira@ufsm.br"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "ENEL 582 – Modelling and Control of Electric Machines and Drives",
+      "institution": "University of Calgary",
+      "date": "2025-01-01",
+      "role": "Sessional Instructor",
+      "description": "Prepared and delivered lectures, tutorials and laboratories; administered and graded assignments and exams; trained teaching assistants and technicians for experiments."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "ENEL 585 – Introduction to Power Electronics",
+      "institution": "University of Calgary",
+      "date": "2024-02-01",
+      "role": "Sessional Instructor",
+      "description": "Prepared and delivered lectures and laboratories; administered and graded assignments, exams and laboratory reports."
+    },
+    {
+      "course": "Electric Machines, Laboratory of Electric Machines, and Electrical Measurements",
+      "institution": "Federal University of Santa Maria",
+      "date": "2019-03-01",
+      "role": "Teaching Assistant",
+      "description": "Assisted in preparing class materials and grading assignments; helped with experimental classes."
+    },
+    {
+      "course": "Electrical Measurements",
+      "institution": "Industrial Technical College of Santa Maria",
+      "date": "2018-08-01",
+      "role": "Teaching Intern",
+      "description": "Taught the course as part of the mandatory internship program for the Special Graduation Program for Professor Training for Professional Education."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Implementation and Development of a Campus Microgrid",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2024",
+      "url": "/portfolio/portfolio-1-microgrid",
+      "description": "Industry-sponsored project with TC Energy, Lockheed Martin, and University of Calgary. Contributed to construction and optimization of a microgrid on campus, including solar panels, microinverters, a Chroma system, a propane generator and a flow battery."
+    },
+    {
+      "name": "Industry-Sponsored Research at McMaster Automotive Resource Centre",
+      "category": "portfolio",
+      "date": "2022",
+      "url": "/portfolio/portfolio-2-marc",
+      "description": "Postdoctoral research with Enedym Inc. and Cubic Transportation Systems, including advanced SRM control strategies, automatic code generation for TI DSPs, and an IoT edge device for machine vision."
+    },
+    {
+      "name": "Advanced Control of Switched Reluctance Motors",
+      "category": "portfolio",
+      "date": "2021",
+      "url": "/portfolio/portfolio-3-srm",
+      "description": "Development of high-performance control strategies for switched reluctance machines, including super-twisting sliding mode current control and torque-sharing function optimization."
     }
   ]
 }
